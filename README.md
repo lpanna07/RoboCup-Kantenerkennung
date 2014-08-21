@@ -1,2 +1,2 @@
-RoboCup-Kantenerkennung
+RoboCup-Kantenerkennung (Linienerkennung)
 =======================
